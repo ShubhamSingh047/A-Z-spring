@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84eda014-b1d9-4187-884b-6671f69d9db6" name="Changes" comment="" />
+    <list default="true" id="84eda014-b1d9-4187-884b-6671f69d9db6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../04-Bean-Primary-Annotation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04-Bean-Primary-Annotation/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Example.executor": "Run",
     "Application.Example1.executor": "Run",
     "Application.Example2.executor": "Run",
     "Application.Example4.executor": "Run",
